@@ -1,0 +1,31 @@
+/*
+	Theme Name: Kake - Corporate Full Theme - Child
+	Theme URI: http://corpfull.kakesamples.com
+	Description: Theme for corporate sites (this is the child theme)!
+	Version: 3.5
+	Author: James Burrell
+	Author URI: http://web.lljb3.com
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Template: corp-full-theme
+	Text Domain: corp-full-theme-child
+	Tags: prodhmd, kakemultimedia, corporate, starkers, clean, basic
+*/
+
+/* ---------------------------------------------------------------------------------------------------------- 
+Put your custom fonts here (replace webfont) and remove the comments around the CSS call --------------------
+Feel free to use font2web.com in order to get the proper font conversion ------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+/*@font-face {
+	font-family: 'webfont';
+	src: url('fonts/webfont.eot');
+	src: url('fonts/webfont.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/webfont.woff') format('woff'),
+		 url('fonts/webfont.ttf')  format('truetype'),
+		 url('fonts/webfont.svg#webfont') format('svg');
+}*/
+
+/* ---------------------------------------------------------------------------------------------------------- 
+Put your custom CSS here ------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
