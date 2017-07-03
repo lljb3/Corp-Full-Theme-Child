@@ -15,6 +15,15 @@
 /* ---------------------------------------------------------------------------------------------------------- 
 Put your custom fonts here (replace webfont) and remove the comments around the CSS call --------------------
 Feel free to use font2web.com in order to get the proper font conversion ------------------------------------
+eg: @font-face {
+	font-family: 'webfont';
+	src: url('fonts/webfont.eot');
+	src: url('fonts/webfont.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/webfont.woff') format('woff'),
+		 url('fonts/webfont.ttf')  format('truetype'),
+		 url('fonts/webfont.svg#webfont') format('svg');
+}
+Uncomment to use. -------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */
 
 /*@font-face {
