@@ -10,5 +10,10 @@
 		/**	Add custom font files in /fonts/ directory thru FTP.
 		 ** Add list here, e.g.: 'FONT_NAME_HERE' => 'FONT_NAME_HERE',
 		 **/
-		
+		// Erase this line to add a list.
 	);
+
+	/* Custom Post Types */
+	/** Add custom post types in /includes/cpts/ directory thru FTP.
+	 ** Add list here, e.g.: include_once('includes/cpts/POST_TYPE_NAME_HERE-cpt.php');
+	 **/
